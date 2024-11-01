@@ -1,4 +1,4 @@
-// #region eslint.config.mjs
+// #region ESLINT.config
 
 import globals from 'globals'
 import pluginJs from '@eslint/js'
