@@ -42,7 +42,7 @@ export default [
       'react-hooks/rules-of-hooks': 2,
       'react-hooks/exhaustive-deps': 1,
       'react/prop-types': 0,
-      'react/react-in-jsx-scope': 2,
+      'react/react-in-jsx-scope': 0,
       'typescript-eslint/explicit-module-boundary-types': 0
     }
   }
